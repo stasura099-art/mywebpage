@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(214, 94%, 20%);
+}
+a{
+    color: white;
+    text-decoration: underline;
+}
+h1{
+    color: white;
+    margin: 0 50px 0 50px
+}
+img{
+width: 300px;
+height: 300px;
+border-radius: 150px;
+}
+.texto-centro{
+    text-align: center;
+}
+.img-centro{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+.enlase-centro{
+    display: block;
+    text-align: center;
+    width: 100%;
+}
