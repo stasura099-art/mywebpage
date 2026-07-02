@@ -1,0 +1,10 @@
+body {
+    background-color: hsl(214, 94%, 20%);
+}
+a{
+    color: white;
+    text-decoration: underline;
+}
+h1{
+    color: white;
+}
