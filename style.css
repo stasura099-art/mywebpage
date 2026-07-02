@@ -23,3 +23,8 @@ border-radius: 150px;
     max-width: 100%;
     heigth: auto;
 }
+.enlase-centro{
+    display: block;
+    text-aling: center;
+    width: 100%;
+}
