@@ -14,3 +14,12 @@ width: 300px;
 height: 300px;
 border-radius: 150px;
 }
+.texto-centro{
+    text-aling: center:
+}
+.img-centro{
+    display: block:
+    margin: 0 auto:
+    max-width: 100%;
+    heigth: auto;
+}
